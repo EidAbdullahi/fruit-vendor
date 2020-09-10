@@ -59,9 +59,9 @@ body{
       .about-section {
         padding: 50px;
         text-align: center;
-        background-color:wheat
-        color: white;
-        }
+        background-color:wheat;
+        color:white;
+      }
 
       .container {
         padding: 0 16px;
